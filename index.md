@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Peloozoid Labs
 ---
 ### Recent Research
 
