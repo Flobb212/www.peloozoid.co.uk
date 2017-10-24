@@ -2,12 +2,14 @@
 layout: default
 ---
 
-### Recent Research
+## Recent Research
 
-[Investigating the Immersive Capabilities of VR Control Systems](Is-This-Real-Life.pdf)  
+In order to produce a strong first product, the team has taken the liberty of each producing a scientific research paper in the field of their choice. Feel free to browse below and send feedback through any of our contact pages!
 
-[Reducing Motion Sickness in VR](Sickeningly-Immersive.pdf)  
+Tom F-L: [Investigating the Immersive Capabilities of VR Control Systems](Is-This-Real-Life.pdf)  
 
-[A look at how Indie developers are addressing co-operative gaming in virtual reality’s isolated environment](Will-you-be-my-Friend.pdf)  
+Sam L: [Reducing Motion Sickness in VR](Sickeningly-Immersive.pdf)  
 
-More coming soon!
+Alix H: [A look at how Indie developers are addressing co-operative gaming in virtual reality’s isolated environment](Will-you-be-my-Friend.pdf)  
+
+More content coming soon!
