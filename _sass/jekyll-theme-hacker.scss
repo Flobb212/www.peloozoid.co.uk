@@ -23,6 +23,11 @@ body {
   padding-right: 20px;
   padding-top: 10px;
 }
+
+.subcontainer2 {
+  height: 100px;
+}
+
 .toolbar {
   padding-top: 10px;
   width: 100%;
@@ -30,13 +35,14 @@ body {
 }
 
 .TBbutton {
-  width: 25%;
+  width: 20%;
   padding: 5px;
-  float: left;
-  color: black;
+  color: #b5e853;
   text-decoration: underline;
   font-size: large;
-  background-color: greenyellow;
+  background-color: transparent;
+  border: none;
+  outline: none;
 }
 
 section {
@@ -63,7 +69,7 @@ header {
   width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding-top: 1%;
-  padding-bottom: 3%;
+  padding-bottom: 40px;
   margin: 0 0 40px 0;
 }
 
