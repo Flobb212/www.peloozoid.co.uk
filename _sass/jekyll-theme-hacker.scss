@@ -48,16 +48,21 @@ body {
 
 footer{
   display: block;
-  max-width: 800px;
-  height: 100px;
+  width: 100%;
   border-top: 1px dashed #b5e853;
-  position: absolute;  
+  position: absolute;
   bottom: 0;
 }
 
-.foot{
+.footContact{
   width: 100%;
   float: left;
+}
+
+.footSocial{
+  width: 100%;
+  float: left;
+  height: 80px;
 }
 
 section {
