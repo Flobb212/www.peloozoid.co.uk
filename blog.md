@@ -2,5 +2,4 @@
 layout: default
 ---
 
-## This is the blog page
-Attach blog using Jekyll magic
+Here is where you'll find the team blog
