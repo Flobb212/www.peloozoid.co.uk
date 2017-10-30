@@ -37,6 +37,7 @@ body {
   width: 10%;
   padding: 5px;
   margin-right: 5%;
+  margin-left: 2%;
   color: #b5e853;
   text-decoration: underline;
   font-size: 20px;
@@ -147,10 +148,6 @@ dt {
   font-weight: bold;
 }
 
-ul li {
-  list-style-image:url('../images/bullet.png');
-}
-
 blockquote {
   color: #aaa;
   padding-left: 10px;
@@ -221,11 +218,6 @@ hr {
   height: 16px;
   margin: 1px 8px 0 0;
   float: left;
-}
-
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
 /* Links
