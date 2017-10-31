@@ -10,7 +10,7 @@ layout: default
           {{post.title}}
         </a>
       </h1>
-      <time datetime="{{post.Date}}">{{post.Date}}</time>
+      <time datetime="{{post.date}}">{{post.date}}</time>
       {{post.content}}
     </article>
   {% endfor %}
