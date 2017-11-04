@@ -6,10 +6,10 @@ layout: default
   {% for post in site.posts %}
     <article class="blogPosts">
       <h1>
-        <a href="{{post.url}}"> {{post.title}} </a> + - + {{post.date}}
+        <a href="{{post.url}}"> {{post.title}} </a> {{post.date}}
       </h1>      
       {{post.excerpt}}
-      <a href="{{ post.url }}">Read more</a>
+      <a href="{{ post.url }}">Read more</a><br>
     </article>
   {% endfor %}
 </html>
