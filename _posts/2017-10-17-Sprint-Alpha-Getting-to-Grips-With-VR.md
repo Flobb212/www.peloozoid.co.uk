@@ -1,6 +1,6 @@
 ---
 layout: default
-tile: Sprint Alpha: Getting to Grips With VR -
+tile: Sprint Alpha Getting to Grips With VR -
 date: 2017-10-17
 ---
 
