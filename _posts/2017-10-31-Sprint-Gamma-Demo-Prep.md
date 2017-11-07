@@ -1,6 +1,6 @@
 ---
 layout: default
-tile: Sprint Gamma Demo Prep
+title: ! 'Sprint Gamma Demo Prep'
 date: 2017-10-31
 ---
 

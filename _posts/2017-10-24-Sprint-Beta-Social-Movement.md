@@ -1,6 +1,6 @@
 ---
 layout: default
-tile: Sprint Beta Social Movement
+title: 'Sprint Beta: Social Movement'
 date: 2017-10-24
 ---
 
