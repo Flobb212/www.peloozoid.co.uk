@@ -1,6 +1,6 @@
 ---
 layout: postDefault
-title: 'After One Week - '
+title: 'After One Week'
 date: 2017-10-10
 ---
 
