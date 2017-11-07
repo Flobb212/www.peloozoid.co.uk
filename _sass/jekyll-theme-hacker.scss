@@ -52,8 +52,9 @@ footer{
   display: block;
   width: 100%;
   border-top: 1px dashed #87ff00;
-  position: absolute;
+  position: fixed;
   bottom: 0;
+  background: #151515 url("../images/bkg.png") 0 0;
 }
 
 .footContact{
