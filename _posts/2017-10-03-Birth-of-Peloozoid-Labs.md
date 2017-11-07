@@ -1,6 +1,6 @@
 ---
 layout: postDefault
-title: Birth of Peloozoid Labs
+title: 'Birth of Peloozoid Labs - '
 date: 2017-10-03
 ---
 
