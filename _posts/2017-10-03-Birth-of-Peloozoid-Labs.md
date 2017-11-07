@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: postDefault
 title: Birth of Peloozoid Labs
 date: 2017-10-03
 ---

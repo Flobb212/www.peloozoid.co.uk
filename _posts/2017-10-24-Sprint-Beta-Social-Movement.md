@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: postDefault
 title: 'Sprint Beta: Social Movement'
 date: 2017-10-24
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: postDefault
 title: After One Week
 date: 2017-10-10
 ---

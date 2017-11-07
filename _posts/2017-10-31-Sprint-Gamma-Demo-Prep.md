@@ -1,6 +1,6 @@
 ---
-layout: default
-title: ! 'Sprint Gamma Demo Prep'
+layout: postDefault
+title: 'Sprint Gamma: Demo Prep'
 date: 2017-10-31
 ---
 
