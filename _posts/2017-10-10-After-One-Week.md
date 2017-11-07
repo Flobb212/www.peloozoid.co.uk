@@ -1,6 +1,6 @@
 ---
 layout: default
-tile: After One Week -
+tile: After One Week
 date: 2017-10-10
 ---
 

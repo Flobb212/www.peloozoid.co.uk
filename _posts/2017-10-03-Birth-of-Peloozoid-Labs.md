@@ -1,6 +1,6 @@
 ---
 layout: default
-tile: Birth of Peloozoid Labs -
+tile: Birth of Peloozoid Labs
 date: 2017-10-03
 ---
 
