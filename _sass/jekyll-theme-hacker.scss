@@ -22,13 +22,15 @@ body {
 .headContainer {
   float: left;
   height: 100px;
-  width: 100px;
+  width: 800px;
   position: relative;
 }
 
 .title {
   position: absolute;
   left: 100px; //width of headContainer
+  margin-top: -90px;
+  font-size: inherit;
 }
 
 .toolbar {
@@ -141,8 +143,8 @@ header h1 {
 }
 
 header h1:before {
-  content: "./ ";
-  font-size: 24px;
+  content: "./";
+  font-size: inherit;
 }
 
 header h2 {
