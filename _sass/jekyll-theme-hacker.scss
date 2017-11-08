@@ -19,10 +19,16 @@ body {
   margin: 0 auto;
 }
 
-.subcontainer1 {
+.headContainer {
   float: left;
   height: 100px;
   width: 100px;
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  left: 100px; //width of headContainer
 }
 
 .toolbar {
