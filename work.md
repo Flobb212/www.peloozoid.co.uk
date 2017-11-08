@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Recent Research
+# Recent Research
 
 In order to produce a strong first product, the team has taken the liberty of each producing a scientific research paper in the field of their choice. Feel free to browse below and send feedback through any of our contact pages!
 
