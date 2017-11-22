@@ -9,3 +9,5 @@ In the works
 <!--excerpt-->
 
 Fixing and polishing for demo
+Elevators
+Social media improvements
