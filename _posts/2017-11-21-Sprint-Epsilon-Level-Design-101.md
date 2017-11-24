@@ -8,6 +8,6 @@ After jumping back into action with the project, our team decided that planning 
 
 <!--excerpt-->
 
-![Level Design Plan](src#/assets/images/levelDesign.png)
+![Level Design Plan]({{ "/assets/images/levelDesign.png" }})
 Break down level ideas.
 GDD mention?
