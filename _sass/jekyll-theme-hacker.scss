@@ -98,8 +98,14 @@ section {
   margin: 0 0 20px 0;
 }
 
-img[src="/assets/images/levelDesign.png"]{
+img[src="/assets/images/wristMenu.png"]{
   max-width: 30%;
+  float: left;
+  padding: 5px;
+}
+
+img[src="/assets/images/levelDesign.png"]{
+  max-width: 50%;
   float: right;
   padding: 5px;
 }
