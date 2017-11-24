@@ -99,13 +99,9 @@ section {
 }
 
 section img {
-  max-width: 25%;
+  max-width: 30%;
   float: left;
-}
-
-img[src$= '#/assets/images/levelDesign.png']
-{
-  width: 100%;
+  padding: 5px;
 }
 
 h1, h2, h3, h4, h5, h6 {
