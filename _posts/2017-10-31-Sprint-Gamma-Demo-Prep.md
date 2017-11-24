@@ -10,6 +10,6 @@ This last week has essentially been a mad dash to make everything as functional 
 
 Most of the things we needed to sort out involved bugs in the mechanics we had so far, but we did still add a few more things to make the experience smoother. This involved a few issues with the level loading system throwing a hissy fit if the users hand entered the pneumo-tube on adding the canister and hooking it all up to the new elevator system. The elevators work by being the secret loading room to transport players from one level into the next and prevents ruining the immersion by removing any actual loading screen. As a player enters the 'End' elevator on one level, it gets moved to the 'Start' position of the next level with the player inside, giving the impression the simple went up or down with no breaks.
 
-Our custom movement system is also still a little buggy so we plan to see how users handle it and try to resolve the issues post demo based on their feedback. 
+Our custom movement system is also still a little buggy so we plan to see how users handle it and try to resolve the issues post demo based on their feedback. Currently the user creates a parabola to wherever they aim, which they'll teleport to upon releasing the button. Having created this from scratch, it turns out there are a lot of problems getting the parabola to act as we want, so hopefully some insightful testers can give us some helpful advice.
 
-Social media improvements
+Our social media sites have also been improved with custom fitted banners and icons to look more professional. Feel free to follow us and stay tuned for updates!
