@@ -98,6 +98,11 @@ section {
   margin: 0 0 20px 0;
 }
 
+section img {
+  max-width: 25%;
+  float: left;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
@@ -167,10 +172,6 @@ header h2 {
   width: 100%;
   margin-top: 180px;
   -webkit-font-smoothing: antialiased;
-}
-section img {
-  max-width: 25%;
-  float: left;
 }
 
 dt {
