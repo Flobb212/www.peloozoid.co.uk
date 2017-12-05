@@ -199,19 +199,13 @@ header h2 {
 */
 
 #main_content {
-  width: 100%;  
+  width: 100%;
   margin-top: 160px;
   border: solid;
   background: #151515;
-  opacity: 0.9;
   padding-top: 20px;
   padding-left: 10px;
   -webkit-font-smoothing: antialiased;
-}
-
-#main_content::before
-{
-
 }
 
 dt {
