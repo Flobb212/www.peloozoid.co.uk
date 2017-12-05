@@ -11,6 +11,12 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+img[src="/assets/images/tom.png"]{
+  max-width: 30%;
+  float: left;
+  padding: 5px;
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
