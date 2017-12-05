@@ -12,9 +12,10 @@ body {
 }
 
 img[src="/assets/images/tom.png"]{
-  max-width: 25%;
+  max-width: 20%;
   float: left;
   padding: 10px;
+  border-style: double;
 }
 
 /* General & 'Reset' Stuff */
@@ -123,7 +124,7 @@ section img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 20px;
+  margin: 0 0 10px;
 }
 
 h2{
