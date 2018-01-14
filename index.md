@@ -11,7 +11,7 @@ We're Peloozoid Labs, a 3 strong team currently working on VR games and tech.
 ## Team Manager and Lead Programmer
 Rallies the troops  
 Tracks project progress  
-In charge of project programing  
+In charge of project programming  
 Has the final say  
 
 
