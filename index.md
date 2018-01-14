@@ -6,7 +6,7 @@ title: Peloozoid Labs
 # Welcome!
 We're Peloozoid Labs, a 3 strong team currently working on VR games and tech.
 
-![HHH picture]({{ "/assets/images/placeholder.png" }})
+![HHH picture]({{ "/assets/images/sam.png" }})
 # _Sam Lord_
 ## Team Manager and Lead Programmer
 Rallies the troops  
@@ -15,7 +15,7 @@ In charge of project programing
 Has the final say  
 
 
-![HHH picture]({{ "/assets/images/placeholder.png" }})
+![HHH picture]({{ "/assets/images/alix.png" }})
 # _Alix Humphries_
 ## Artist and Modeler, Assistant Programmer
 Models objects and levels  
